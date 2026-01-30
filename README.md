@@ -28,13 +28,8 @@ This project fetches live stock data and displays interactive charts.
 ```bash
 pip install -r requirements.txt
 
----
 
 
-### Clone the Repository
-```bash
-git clone https://github.com/DivyaP1806/RealTime-Stock-Dashboard.git
-cd RealTime-Stock-Dashboard
 
 
 
