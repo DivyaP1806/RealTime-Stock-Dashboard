@@ -28,6 +28,14 @@ This project fetches live stock data and displays interactive charts.
 ```bash
 pip install -r requirements.txt
 
+---
+## ▶️ Run the Project
+
+```bash
+python -m streamlit run app.py
+
+
+
 
 
 
