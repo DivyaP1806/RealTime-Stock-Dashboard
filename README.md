@@ -15,10 +15,11 @@ This project fetches live stock data and displays interactive charts.
 ---
 
 ## 🛠 Tech Stack
-- Python
-- Streamlit
-- yfinance
-- Plotly
+- **Python**
+- **Streamlit** – Web UI
+- **yfinance** – Live stock data
+- **Plotly** – Interactive charts
+
 
 ---
 
@@ -29,9 +30,11 @@ pip install -r requirements.txt
 
 ---
 
-##Run the Project
-
+**## Clone the Repository**
 ```bash
-python -m streamlit run app.py
+git clone https://github.com/DivyaP1806/RealTime-Stock-Dashboard.git
+
+
+
 
 
