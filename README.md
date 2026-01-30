@@ -30,9 +30,12 @@ pip install -r requirements.txt
 
 ---
 
-**## Clone the Repository**
+## Clone the Project
+
 ```bash
 git clone https://github.com/DivyaP1806/RealTime-Stock-Dashboard.git
+
+
 
 
 
